@@ -1,3 +1,6 @@
+
+
+
 ## Movie_Ticket_Booking
 This repository contains the source code for a simple movie ticket booking application built using HTML, CSS, and JavaScript. Users can select a movie and choose seats for booking. The application dynamically updates the selected seat count and total price.
 
@@ -34,3 +37,4 @@ Simply open the index.html file in any modern web browser to run the application
 
 ## Author
 [Sunny Anand] - [anandsunny3705@gmail.com]
+
