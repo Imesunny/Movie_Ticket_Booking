@@ -36,5 +36,9 @@ Simply open the index.html file in any modern web browser to run the application
 
 
 ## Author
+<<<<<<< HEAD
 [Sunny Anand] - [anandsunny3705@gmail.com]
 
+=======
+[Sunny Anand] - [anandsunny3705@gmail.com]![MovieTicket](https://github.com/Imesunny/Movie_Ticket_Booking/assets/135868134/6600a701-35ae-4500-97fb-0a18d9cb4c48)
+>>>>>>> c0c18cb179ac259f5d4a4d42b822f2306d86c428
